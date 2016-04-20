@@ -1,6 +1,11 @@
-# Homebrew Tap with stable libbpg-0.9.5
-A stable version (0.9.5) of http://bellard.org/bpg/ which doesn't run into an Segmentation fault 11 on OSX.
+# Homebrew Tap for libbpg
+A stable version (0.9.5) of http://bellard.org/bpg/ which doesn't run into an Segmentation fault on OSX.
 
-## Install via Homebrew
+You have to unistall other versions of libbpg from your computer before installing this version!
+
+## Uninstall other versions
+- Force uninstall all installed versions `$ brew uninstall --force libbpg`
+
+## Install this version via Homebrew
 - Add this homebrew tap `$ brew tap pascaliske/libbpg`
 - Install the stable libbpg `$ brew install libbpg-stable`
