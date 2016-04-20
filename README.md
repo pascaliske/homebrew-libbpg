@@ -1,4 +1,4 @@
-# homebrew-libbpg
+# Homebrew Tap with stable libbpg-0.9.5
 A stable version (0.9.5) of http://bellard.org/bpg/ which doesn't run into an Segmentation fault 11 on OSX.
 
 ## Install via Homebrew
