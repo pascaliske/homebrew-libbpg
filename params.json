@@ -1,6 +1,6 @@
 {
-  "name": "Libbpg for OS X",
+  "name": "Homebrew Tap for libbpg on OS X",
   "tagline": "A stable version of http://bellard.org/bpg/ for OS X. (v0.9.5)",
-  "body": "## Homebrew tap for libbpg\r\nA stable version (v0.9.5) of http://bellard.org/bpg/ which doesn't run into an Segmentation fault on OSX.\r\n\r\nYou have to uninstall other versions of `libbpg` from your computer before installing this version!\r\n\r\n### Uninstall other versions\r\n- Force uninstall all installed versions `$ brew uninstall --force libbpg`\r\n\r\n### Install this version via Homebrew\r\n- Tap this repo `$ brew tap pascaliske/libbpg`\r\n- Install libbpg v0.9.5 `$ brew install libbpg-stable`\r\n",
+  "body": "# Homebrew Tap for libbpg on OS X\r\nA stable version (v0.9.5) of [libbpg](http://bellard.org/bpg/) by [Fabrice Bellard](http://bellard.org) which doesn't run into an Segmentation fault on OS X.\r\n\r\nYou can install this library with [Homebrew](http://brew.sh).\r\n\r\n**Note:** You have to uninstall other versions of libbpg from your computer before installing this version!\r\n\r\n## Install homebrew\r\n- Go to http://brew.sh/ for installation instructions\r\n\r\n## Force uninstall other versions from Homebrew\r\n- Force uninstall all installed versions `$ brew uninstall --force libbpg`\r\n\r\n## Install v0.9.5 via Homebrew\r\n- Tap this repo `$ brew tap pascaliske/libbpg`\r\n- Install libbpg v0.9.5 `$ brew install libbpg-stable`\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
