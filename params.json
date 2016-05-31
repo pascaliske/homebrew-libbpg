@@ -1,6 +1,6 @@
 {
   "name": "Libbpg for OS X",
-  "tagline": "A stable version (0.9.5) of http://bellard.org/bpg/ which doesn't run into an segmentation fault 11 on OS X.",
-  "body": "### BPG Generator CLI\r\nA stable build from source (v0.9.5) of the original BPG generator cli from http://bellard.org/bpg/. This build is for OS X and doesn't run into an segmentation fault 11.",
+  "tagline": "A stable version of http://bellard.org/bpg/ for OS X. (v0.9.5)",
+  "body": "## Homebrew tap for libbpg\r\nA stable version (v0.9.5) of http://bellard.org/bpg/ which doesn't run into an Segmentation fault on OSX.\r\n\r\nYou have to uninstall other versions of `libbpg` from your computer before installing this version!\r\n\r\n### Uninstall other versions\r\n- Force uninstall all installed versions `$ brew uninstall --force libbpg`\r\n\r\n### Install this version via Homebrew\r\n- Tap this repo `$ brew tap pascaliske/libbpg`\r\n- Install libbpg v0.9.5 `$ brew install libbpg-stable`\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
