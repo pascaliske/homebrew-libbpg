@@ -7,5 +7,5 @@ You have to unistall other versions of libbpg from your computer before installi
 - Force uninstall all installed versions `$ brew uninstall --force libbpg`
 
 ## Install this version via Homebrew
-- Add this homebrew tap `$ brew tap pascaliske/libbpg`
-- Install the stable libbpg `$ brew install libbpg-stable`
+- Tap this repo `$ brew tap pascaliske/libbpg`
+- Install libbpg v0.9.5 `$ brew install libbpg-stable`
