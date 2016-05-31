@@ -1,0 +1,6 @@
+{
+  "name": "Libbpg for OS X",
+  "tagline": "A stable version (0.9.5) of http://bellard.org/bpg/ which doesn't run into an segmentation fault 11 on OS X.",
+  "body": "### BPG Generator CLI\r\nA stable build from source (v0.9.5) of the original BPG generator cli from http://bellard.org/bpg/. This build is for OS X and doesn't run into an segmentation fault 11.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
