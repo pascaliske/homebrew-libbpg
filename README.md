@@ -14,3 +14,6 @@ You can install this library with [Homebrew](http://brew.sh).
 ## Install v0.9.5 via Homebrew
 - Tap this repo `$ brew tap pascaliske/libbpg`
 - Install libbpg v0.9.5 `$ brew install libbpg-stable`
+
+## Resources
+- http://unix.stackexchange.com/questions/181735/how-to-install-bpg-better-portable-graphics-on-linux-mint-17
