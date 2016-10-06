@@ -1,4 +1,4 @@
-# Homebrew tap for libbpg
+# Homebrew tap for libbpg ([pascaliske/libbpg](https://pascaliske.github.io/homebrew-libbpg)
 A stable version (v0.9.5) of [libbpg](http://bellard.org/bpg/) by [Fabrice Bellard](http://bellard.org) which doesn't run into an Segmentation fault on OS X.
 
 You can install this library with [Homebrew](http://brew.sh).
